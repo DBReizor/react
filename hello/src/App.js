@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hello!
+          Hello! How're you?
         </p>
         <a
           className="App-link"
